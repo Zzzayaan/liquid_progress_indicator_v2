@@ -4,7 +4,7 @@ Liquid progress indicator for Flutter.
 
 This version fix the original package Liquid progress indicator issues after upgrading to flutter 3.10 which was making it incompatible.
 
-</b> This fork just makes a very slight change of having a smaller waveheight, which I wanted to use for my personal project </b>
+<b> This fork just makes a very slight change of having a smaller waveheight, which I wanted to use for my personal project </b>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/JordanADavies/liquid_progress_indicator/master/art/liquid_circular_progress_indicator.gif" width=250>
